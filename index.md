@@ -9,7 +9,7 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 # Please use our new Wiki!
 
-https://wiki.openastrotech.com/
+<https://wiki.openastrotech.com/>
 
 # This Wiki is no longer maintained!
 
