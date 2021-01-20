@@ -7,7 +7,11 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-# Work in progress in this wiki!
+# Please use our new Wiki!
+
+https://wiki.openastrotech.com/
+
+# This Wiki is no longer maintained!
 
 <br/><br/>
 <br/><br/>
